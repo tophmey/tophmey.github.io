@@ -1,5 +1,5 @@
 # Some ideas
 
-The personal website of Christopher Meyers
+another change The personal website of Christopher Meyers
 
 [Higher Order Junction](higher-order-junction.md)
