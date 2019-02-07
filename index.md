@@ -1,6 +1,6 @@
 # Chris Meyers is a JavaScript developer
 
-<https://github.com/tophmey/>
-<https://twitter.com/tophmey>
-<https://www.linkedin.com/in/tophmey/>
-<chris@hirechrismeyers.com>
+* <https://github.com/tophmey/>
+* <https://twitter.com/tophmey>
+* <https://www.linkedin.com/in/tophmey/>
+* <chris@hirechrismeyers.com>
