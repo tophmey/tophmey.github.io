@@ -1,8 +1,6 @@
-# tophmey.github.io
+# Chris Meyers is a JavaScript developer
 
-The personal website of Christopher Meyers
-
-[Higher Order Junction](higher-order-junction.md)
-
-
-[On Learning](on-learning.md)
+* https://github.com/tophmey/
+* https://twitter.com/tophmey
+* https://www.linkedin.com/in/tophmey/
+* chris@hirechrismeyers.com
